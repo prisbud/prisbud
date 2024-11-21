@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Reactjs,nextjs**
 
-- 💬 Ask me about **reactjs nextjs javascript and firebase**
+- 💬 Ask me about **reactjs typescript javascript**
 
 - 📫 How to reach me **kanhere.priya@gmail.com**
 
